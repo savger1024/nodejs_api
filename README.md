@@ -10,3 +10,6 @@
 5. Ha nem futott hibára a 3-as pont, akkor hozd létre a db fájlt a db.js fájl futtatásával: node db.js
 6. Indítsd el a backend servert így: node server.js
 7. Ezt követően használhatod a html fájlokat. add.html-el hozzáadsz új rekordot, index.html-el listázod/módosítod/törlöd az adatot
+
+Fontos!!! Mivel a tananyag kezdőknek szól és elsősorban az api működésének megértése a cél, így bizonyos részeknél a tiszta kódolás elvei, 
+illetve más erőforrásbarát megoldások, illetve a biztonság nem feltétlenül érvényesültek. Ebből adódóan kizárólag tanulás során javasolt ezeket a megoldásokat használni, éles környezetben semmiképpen!
